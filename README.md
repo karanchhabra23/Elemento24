@@ -1,5 +1,4 @@
 ## Hola Guys & Gals, Elemento here 😃
-<br />
 
 ### A Little Introduction ->
 🕸️ Full Stack Web Developer  
@@ -12,13 +11,11 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=Elemento24&show_icons=true&theme=gotham" alt="github stats"/>
 
 <br />
-<br />
 
 <a href="https://github.com/elemento24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemento24&layout=compact&theme=gotham" /></a>
 
 <br />
 <hr/>
-<br />
 
 ### Development Tools
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -80,7 +77,6 @@
 <br/>
 
 <hr/>
-<br/>
 
 ## Find me around the web
 
