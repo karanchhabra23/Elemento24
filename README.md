@@ -36,15 +36,12 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 ### Programming Languages
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 
-<br/>
 <br/>
 <br/>
 
@@ -69,8 +66,6 @@
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jsonwebtokens.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fontawesome.svg" />
 
-<br/>
-<br/>
 <br/>
 <br/>
 
