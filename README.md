@@ -2,7 +2,7 @@
 
 🕸️ Full Stack Web Developer  
 📱 Flutter Developer  
-💻 ML & AI Explorer
+💻 ML & AI Explorer  
 👐 Open Source Enthusiast  
 🧑‍🎓 Addicted to Exploring & Learning  
 🎵 Musicophile
