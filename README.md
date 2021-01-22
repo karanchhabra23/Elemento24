@@ -1,4 +1,4 @@
-![Elemento's GitHub Banner](./assets/Cover.png)
+![Elemento's GitHub Banner](./assets/cover_small.png)
 
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=elemento24.elemento24)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/vishesh-mittal-9551a4199/)
@@ -13,7 +13,6 @@ I'm Elemento, a Sophomore 🧑‍🎓 at Indian Institute of Information Technol
 <br>
 Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
-<hr/>
 <br>
 
 ## &#x1f4c8; Github Stats
