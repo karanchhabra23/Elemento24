@@ -1,4 +1,4 @@
-![Elemento's GitHub Banner](./assets/cover_small.png)
+![Elemento's GitHub Banner](./assets/cover_large.png)
 
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=elemento24.elemento24)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/vishesh-mittal-9551a4199/)
