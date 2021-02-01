@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</b>
-> <p><i>- Andy Bernard</i></p>
+> <b>I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.</b>
+> <p><i>- Stanley Hudson</i></p>
 
 <br>
