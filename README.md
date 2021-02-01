@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>Well, Happy Birthday Jesus. Sorry your party’s so lame.</b>
-> <p><i>- Michael Scott</i></p>
+> <b>Did I stutter?</b>
+> <p><i>- Stanley Hudson</i></p>
 
 <br>
