@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>Everybody stay calm! Stay f*&#!#% calm!</b>
-> <p><i>- Michael Scott</i></p>
+> <b>I have a lot of questions. Number one, how dare you?</b>
+> <p><i>- Kelly Kapoor</i></p>
 
 <br>
