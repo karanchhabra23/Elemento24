@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</b>
-> <p><i>- Andy Bernard</i></p>
+> <b>I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.</b>
+> <p><i>- Angela Martin</i></p>
 
 <br>
