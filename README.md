@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.</b>
-> <p><i>- Angela Martin</i></p>
+> <b>It has to be official, and it has to be urine.</b>
+> <p><i>- Dwight Schrute</i></p>
 
 <br>
