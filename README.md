@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</b>
-> <p><i>- Oscar Martinez</i></p>
+> <b>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</b>
+> <p><i>- Andy Bernard</i></p>
 
 <br>
