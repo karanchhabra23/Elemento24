@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.</b>
-> <p><i>- Angela Martin</i></p>
+> <b>I have a lot of questions. Number one, how dare you?</b>
+> <p><i>- Kelly Kapoor</i></p>
 
 <br>
