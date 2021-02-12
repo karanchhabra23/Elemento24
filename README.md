@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>Did I stutter?</b>
-> <p><i>- Stanley Hudson</i></p>
+> <b>Shut up about the sun. SHUT UP ABOUT THE SUN!</b>
+> <p><i>- Gabe Lewis</i></p>
 
 <br>
