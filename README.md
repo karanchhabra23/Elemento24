@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</b>
-> <p><i>- Phyllis Lapin</i></p>
+> <b>If you pray enough, you can change yourself into a cat person.</b>
+> <p><i>- Angela Martin</i></p>
 
 <br>
