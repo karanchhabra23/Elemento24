@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>I have a lot of questions. Number one, how dare you?</b>
-> <p><i>- Kelly Kapoor</i></p>
+> <b>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</b>
+> <p><i>- Pam Beesly</i></p>
 
 <br>
