@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/elemento24)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=blue)](https://www.instagram.com/elemento.24/)
 
-## Hola Guys & Gals 👋
+## Hola Guys & Gals <img src="./assets/wave.gif" width="24px" alt="Hi">
 
 I'm Elemento, a Sophomore 🧑‍🎓 at Indian Institute of Information Technology, Allahabad (IIIT-A). I love to work on Full Stack Web Applications 🕸️, based on MERN Stack, and apart from that, Flutter intrigues me too, when it comes to developing Android & IOS Applications 📱. Currently, I am exploring Machnine Learning (ML) & Artificial Intelligence (AI) 💻
 <br>
