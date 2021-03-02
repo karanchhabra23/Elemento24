@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</b>
+> <b>If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
