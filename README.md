@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.</b>
-> <p><i>- Toby Flenderson</i></p>
+> <b>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</b>
+> <p><i>- Pam Beesly</i></p>
 
 <br>
