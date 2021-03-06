@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>I. Declare. Bankruptcy!</b>
-> <p><i>- Michael Scott</i></p>
+> <b>I am immensely proud of what I did for that turtle!</b>
+> <p><i>- Kevin Malone</i></p>
 
 <br>
