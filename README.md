@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</b>
-> <p><i>- Oscar Martinez</i></p>
+> <b>I am immensely proud of what I did for that turtle!</b>
+> <p><i>- Kevin Malone</i></p>
 
 <br>
