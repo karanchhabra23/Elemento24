@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>I have a lot of questions. Number one, how dare you?</b>
-> <p><i>- Kelly Kapoor</i></p>
+> <b>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</b>
+> <p><i>- Oscar Martinez</i></p>
 
 <br>
