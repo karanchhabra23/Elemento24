@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.</b>
-> <p><i>- Erin Hannon</i></p>
+> <b>I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
