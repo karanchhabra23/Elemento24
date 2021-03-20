@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>If you pray enough, you can change yourself into a cat person.</b>
-> <p><i>- Angela Martin</i></p>
+> <b>I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.</b>
+> <p><i>- Stanley Hudson</i></p>
 
 <br>
