@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</b>
-> <p><i>- Pam Beesly</i></p>
+> <b>Did I stutter?</b>
+> <p><i>- Stanley Hudson</i></p>
 
 <br>
