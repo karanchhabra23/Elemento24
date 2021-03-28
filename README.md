@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.</b>
-> <p><i>- Dwight Schrute</i></p>
+> <b>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</b>
+> <p><i>- Phyllis Lapin</i></p>
 
 <br>
