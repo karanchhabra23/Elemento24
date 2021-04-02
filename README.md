@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</b>
+> <b>I. Declare. Bankruptcy!</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
