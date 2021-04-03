@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>I don't talk trash, I talk smack. They're totally different. Trash talk is hypothetical, like: Your mom is so fat she can eat the internet. But smack talk is happening like right now. Like: You're ugly and I know it for a fact 'cause I got the evidence right there.</b>
-> <p><i>- Kelly Kapoor</i></p>
+> <b>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</b>
+> <p><i>- Phyllis Lapin</i></p>
 
 <br>
