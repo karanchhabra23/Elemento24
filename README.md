@@ -101,7 +101,7 @@ Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
 <br>
 <br>
 
-> <b>I am immensely proud of what I did for that turtle!</b>
-> <p><i>- Kevin Malone</i></p>
+> <b>I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.</b>
+> <p><i>- Jim Halpert</i></p>
 
 <br>
