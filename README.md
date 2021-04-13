@@ -1,4 +1,4 @@
-![Elemento's GitHub Banner](./assets/cover_large.png)
+![Elemento's GitHub Banner](./assets/cover.gif)
 
 ![Visits](https://visitor-badge.laobi.icu/badge?page_id=elemento24.elemento24)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/vishesh-mittal-9551a4199/)
@@ -8,19 +8,17 @@
 
 ## Hola Guys & Gals <img src="./assets/wave.gif" width="24px" alt="Hi">
 
-I'm Elemento, a Sophomore 🧑‍🎓 at Indian Institute of Information Technology, Allahabad (IIIT-A). I love to work on Full Stack Web Applications 🕸️, based on MERN Stack, and apart from that, Flutter intrigues me too, when it comes to developing Android & IOS Applications 📱. Currently, I am exploring Machnine Learning (ML) & Artificial Intelligence (AI) 💻
+I'm Elemento, a Sophomore 🧑‍🎓 at Indian Institute of Information Technology, Allahabad (IIIT-A). I am a **Machine Learning** and **Deep Learning** Enthusiast, and loves to explore other domains of **Artificial Intelligence** as well. Other than this, I love to work on Full Stack Web Applications 🕸️, based on MERN Stack as well.
 <br>
 <br>
-Want to know more about <b>Me</b>? Check out my Profiles listed above ⏫
+Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
 ## &#x1f4c8; Github Stats
 <br />
-<img src="https://github-readme-stats.vercel.app/api/?username=Elemento24&show_icons=true&theme=gotham" alt="github stats"/>
-<br />
-<br />
-<a href="https://github.com/elemento24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemento24&layout=compact&theme=gotham" /></a>
+<img style="height: 170px; margin-right: 20px;" src="https://github-readme-stats.vercel.app/api/?username=Elemento24&show_icons=true&theme=gotham" alt="github stats"/>
+<a href="https://github.com/elemento24/github-readme-stats"><img style="height: 170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemento24&layout=compact&theme=gotham" /></a>
 <br />
 <br />
 <br />
