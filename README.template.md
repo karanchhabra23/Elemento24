@@ -20,16 +20,11 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-## &#x1f4c8; Github Stats
-<br />
-<div style="display: flex; justify-content: space-between;">
-  <div  style="height: 165px">
-    <img style="height: 100%" src="https://github-readme-stats.vercel.app/api/?username=Elemento24&show_icons=true&theme=gotham" alt="github stats"/>
-  </div>
-  <div style="height: 165px">
-    <a style="height: 100%" href="https://github.com/elemento24/github-readme-stats"><img style="height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemento24&layout=compact&theme=gotham" /></a>
-  </div>
-</div>
+<!-- ## &#x1f4c8; Github Stats -->
+<img style="width: 80%; margin-left: 10%;" src="https://github-readme-stats.vercel.app/api/?username=Elemento24&show_icons=true&theme=gotham" alt="github stats"/>
+<br>
+<br>
+<a href="https://github.com/elemento24/github-readme-stats"><img style="width: 60%; margin-left: 20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemento24&layout=compact&theme=gotham" /></a>
 <br />
 <br />
 
