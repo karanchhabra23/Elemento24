@@ -28,13 +28,12 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br />
 <br /> -->
 
-<div>
+<div align="center">
   <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elemento24&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="Elemento's Github Stats" width="400"/> 
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Elemento24&theme=gotham&hide_border=true" alt="Elemento's Github Streak" width="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elemento24&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="Elemento's Github Stats" width="600"/> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elemento24&theme=gotham&hide_border=true" alt="Elemento's Github Streak" width="600"/>
   </p>
 </div>
-<br />
 <br />
 
 ## 📝 Medium Articles
