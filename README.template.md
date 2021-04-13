@@ -17,9 +17,10 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 
 ## &#x1f4c8; Github Stats
 <br />
-<img style="height: 165px;" src="https://github-readme-stats.vercel.app/api/?username=Elemento24&show_icons=true&theme=gotham" alt="github stats"/>
-<a href="https://github.com/elemento24/github-readme-stats"><img style="height: 165px; float:right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemento24&layout=compact&theme=gotham" /></a>
-<br />
+<div style="display: flex; justify-content: space-between;">
+<img style="height: 165px" src="https://github-readme-stats.vercel.app/api/?username=Elemento24&show_icons=true&theme=gotham" alt="github stats"/>
+<a href="https://github.com/elemento24/github-readme-stats"><img style="height: 165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemento24&layout=compact&theme=gotham" /></a>
+</div>
 <br />
 <br />
 
