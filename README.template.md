@@ -1,10 +1,15 @@
 ![Elemento's GitHub Banner](./assets/cover.gif)
 
-![Visits](https://visitor-badge.laobi.icu/badge?page_id=elemento24.elemento24)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/vishesh-mittal-9551a4199/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=blue)](https://twitter.com/Vishesh30493930)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/elemento24)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=blue)](https://www.instagram.com/elemento.24/)
+<!-- ![Visits](https://visitor-badge.laobi.icu/badge?page_id=elemento24.elemento24) -->
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=379172)](https://www.linkedin.com/in/vishesh-mittal-9551a4199/)
+&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=379172)](https://twitter.com/Vishesh30493930)
+&nbsp;
+[![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=379172)](https://www.facebook.com/elemento24)
+&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=379172)](https://www.instagram.com/elemento.24/)
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=379172)](mailto:mittalvishesh021@gmail.com)
 
 ## Hola Guys & Gals <img src="./assets/wave.gif" width="24px" alt="Hi">
 

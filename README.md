@@ -1,10 +1,16 @@
 ![Elemento's GitHub Banner](./assets/cover.gif)
 
-![Visits](https://visitor-badge.laobi.icu/badge?page_id=elemento24.elemento24)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/vishesh-mittal-9551a4199/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=blue)](https://twitter.com/Vishesh30493930)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/elemento24)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=blue)](https://www.instagram.com/elemento.24/)
+<!-- ![Visits](https://visitor-badge.laobi.icu/badge?page_id=elemento24.elemento24) -->
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=379172)](https://www.linkedin.com/in/vishesh-mittal-9551a4199/)
+&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=379172)](https://twitter.com/Vishesh30493930)
+&nbsp;
+[![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=379172)](https://www.facebook.com/elemento24)
+&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=379172)](https://www.instagram.com/elemento.24/)
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=379172)](mailto:mittalvishesh021@gmail.com)
+
 
 ## Hola Guys & Gals <img src="./assets/wave.gif" width="24px" alt="Hi">
 
@@ -17,14 +23,8 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 
 ## &#x1f4c8; Github Stats
 <br />
-<div style="display: flex; justify-content: space-between;">
-  <div  style="height: 165px">
-    <img style="height: 100%" src="https://github-readme-stats.vercel.app/api/?username=Elemento24&show_icons=true&theme=gotham" alt="github stats"/>
-  </div>
-  <div style="height: 165px">
-    <a style="height: 100%" href="https://github.com/elemento24/github-readme-stats"><img style="height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemento24&layout=compact&theme=gotham" /></a>
-  </div>
-</div>
+<img style="width: 100%" src="https://github-readme-stats.vercel.app/api/?username=Elemento24&show_icons=true&theme=gotham" alt="github stats"/>
+<a style="width: 100%" href="https://github.com/elemento24/github-readme-stats"><img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemento24&layout=compact&theme=gotham" /></a>
 <br />
 <br />
 
