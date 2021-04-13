@@ -8,7 +8,7 @@
 
 ## Hola Guys & Gals <img src="./assets/wave.gif" width="24px" alt="Hi">
 
-I'm Elemento, a Sophomore 🧑‍🎓 at Indian Institute of Information Technology, Allahabad (IIIT-A). I am a **Machine Learning** and **Deep Learning** Enthusiast, and loves to explore other domains of **Artificial Intelligence** as well. Other than this, I love to work on Full Stack Web Applications 🕸️, based on MERN Stack as well.
+I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Technology, Allahabad (IIIT-A). I am a **Machine Learning** and **Deep Learning** Enthusiast, and loves to explore other domains of **Artificial Intelligence** as well. Other than this, I love to work on **Full Stack Web Applications** 🕸️, based on **MERN Stack** as well.
 <br>
 <br>
 Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
@@ -17,8 +17,8 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 
 ## &#x1f4c8; Github Stats
 <br />
-<img style="height: 170px; margin-right: 20px;" src="https://github-readme-stats.vercel.app/api/?username=Elemento24&show_icons=true&theme=gotham" alt="github stats"/>
-<a href="https://github.com/elemento24/github-readme-stats"><img style="height: 170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemento24&layout=compact&theme=gotham" /></a>
+<img style="height: 165px;" src="https://github-readme-stats.vercel.app/api/?username=Elemento24&show_icons=true&theme=gotham" alt="github stats"/>
+<a href="https://github.com/elemento24/github-readme-stats"><img style="height: 165px; float:right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemento24&layout=compact&theme=gotham" /></a>
 <br />
 <br />
 <br />
