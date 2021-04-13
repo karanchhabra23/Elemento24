@@ -21,10 +21,17 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 
 <!-- ## &#x1f4c8; Github Stats -->
-<img style="width: 80%; margin-left: 10%;" src="https://github-readme-stats.vercel.app/api/?username=Elemento24&show_icons=true&theme=gotham" alt="github stats"/>
+<!-- <img style="width: 80%; margin-left: 10%;" src="https://github-readme-stats.vercel.app/api/?username=Elemento24&show_icons=true&theme=gotham" alt="github stats"/>
 <br>
 <br>
 <a href="https://github.com/elemento24/github-readme-stats"><img style="width: 60%; margin-left: 20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemento24&layout=compact&theme=gotham" /></a>
+<br />
+<br /> -->
+
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Elemento24&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="Elemento's Github Stats" width="400"/> 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Elemento24&theme=gotham&hide_border=true" alt="Elemento's Github Streak" width="400"/>
+</p>
 <br />
 <br />
 
