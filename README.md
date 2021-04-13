@@ -11,7 +11,6 @@
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=379172)](mailto:mittalvishesh021@gmail.com)
 
-
 ## Hola Guys & Gals <img src="./assets/wave.gif" width="24px" alt="Hi">
 
 I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Technology, Allahabad (IIIT-A). I am a **Machine Learning** and **Deep Learning** Enthusiast, and loves to explore other domains of **Artificial Intelligence** as well. Other than this, I love to work on **Full Stack Web Applications** 🕸️, based on **MERN Stack** as well.
@@ -105,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'</b>
-> <p><i>- Andy Bernard</i></p>
+> <b>If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
