@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</b>
-> <p><i>- Michael Scott</i></p>
+> <b>Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.</b>
+> <p><i>- Toby Flenderson</i></p>
 
 <br>
