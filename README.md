@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</b>
-> <p><i>- Phyllis Lapin</i></p>
+> <b>Did I stutter?</b>
+> <p><i>- Stanley Hudson</i></p>
 
 <br>
