@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>Did I stutter?</b>
-> <p><i>- Stanley Hudson</i></p>
+> <b>I am immensely proud of what I did for that turtle!</b>
+> <p><i>- Kevin Malone</i></p>
 
 <br>
