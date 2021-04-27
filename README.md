@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</b>
-> <p><i>- Phyllis Lapin</i></p>
+> <b>I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.</b>
+> <p><i>- Dwight Schrute</i></p>
 
 <br>
