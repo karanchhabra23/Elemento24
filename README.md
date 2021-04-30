@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>Bears, Beets, Battlestar Galactica.</b>
-> <p><i>- Jim Halpert</i></p>
+> <b>I feel God in this Chili’s tonight.</b>
+> <p><i>- Pam Beesly</i></p>
 
 <br>
