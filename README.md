@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>I feel God in this Chili’s tonight.</b>
-> <p><i>- Pam Beesly</i></p>
+> <b>I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.</b>
+> <p><i>- Andy Bernard</i></p>
 
 <br>
