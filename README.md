@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>If you pray enough, you can change yourself into a cat person.</b>
-> <p><i>- Angela Martin</i></p>
+> <b>Occasionally, I’ll hit somebody with my car. So sue me.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
