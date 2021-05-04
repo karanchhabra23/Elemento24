@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>Did I stutter?</b>
-> <p><i>- Stanley Hudson</i></p>
+> <b>I have a lot of questions. Number one, how dare you?</b>
+> <p><i>- Kelly Kapoor</i></p>
 
 <br>
