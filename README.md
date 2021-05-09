@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>Well, Happy Birthday Jesus. Sorry your party’s so lame.</b>
-> <p><i>- Michael Scott</i></p>
+> <b>I feel God in this Chili’s tonight.</b>
+> <p><i>- Pam Beesly</i></p>
 
 <br>
