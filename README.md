@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.</b>
-> <p><i>- Pam Beesly</i></p>
+> <b>Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.</b>
+> <p><i>- Ryan Howard</i></p>
 
 <br>
