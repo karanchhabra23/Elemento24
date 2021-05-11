@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>It has to be official, and it has to be urine.</b>
-> <p><i>- Dwight Schrute</i></p>
+> <b>Bears, Beets, Battlestar Galactica.</b>
+> <p><i>- Jim Halpert</i></p>
 
 <br>
