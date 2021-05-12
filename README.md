@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>I have a lot of questions. Number one, how dare you?</b>
-> <p><i>- Kelly Kapoor</i></p>
+> <b>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
