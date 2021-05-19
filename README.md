@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>In a gang world, we use something called fluffy fingers. That's when someone really gets in your face, you know you just, start ticklin' 'em. And he starts tickling you. And pretty soon you laughing and hugging. Before you know it, you've forgotten the whole thing. Y'all just go to church together, and get an ice cream cone.</b>
-> <p><i>- Darryl Philbin</i></p>
+> <b>Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.</b>
+> <p><i>- Dwight Schrute</i></p>
 
 <br>
