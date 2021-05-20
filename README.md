@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>I. Declare. Bankruptcy!</b>
-> <p><i>- Michael Scott</i></p>
+> <b>Sorry I annoyed you with my friendship.</b>
+> <p><i>- Andy Bernard</i></p>
 
 <br>
