@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>I feel God in this Chili’s tonight.</b>
-> <p><i>- Pam Beesly</i></p>
+> <b>Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.</b>
+> <p><i>- Dwight Schrute</i></p>
 
 <br>
