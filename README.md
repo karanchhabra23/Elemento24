@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</b>
-> <p><i>- Pam Beesly</i></p>
+> <b>I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.</b>
+> <p><i>- Angela Martin</i></p>
 
 <br>
