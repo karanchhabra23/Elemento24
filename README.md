@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>I am immensely proud of what I did for that turtle!</b>
-> <p><i>- Kevin Malone</i></p>
+> <b>It's performance review day, company-wide. Last year, my performance review started with Michael asking me what my hopes and dreams were, and it ended with him telling me he could bench-press 190 pounds. So, I don't really know what to expect.</b>
+> <p><i>- Pam Beesly</i></p>
 
 <br>
