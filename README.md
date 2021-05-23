@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>If you pray enough, you can change yourself into a cat person.</b>
-> <p><i>- Angela Martin</i></p>
+> <b>Bears, Beets, Battlestar Galactica.</b>
+> <p><i>- Jim Halpert</i></p>
 
 <br>
