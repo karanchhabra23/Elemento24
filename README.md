@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>It has to be official, and it has to be urine.</b>
-> <p><i>- Dwight Schrute</i></p>
+> <b>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</b>
+> <p><i>- Pam Beesly</i></p>
 
 <br>
