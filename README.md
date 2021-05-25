@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>Well, Happy Birthday Jesus. Sorry your party’s so lame.</b>
-> <p><i>- Michael Scott</i></p>
+> <b>If you pray enough, you can change yourself into a cat person.</b>
+> <p><i>- Angela Martin</i></p>
 
 <br>
