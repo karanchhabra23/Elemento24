@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.</b>
-> <p><i>- Michael Scott</i></p>
+> <b>Sorry I annoyed you with my friendship.</b>
+> <p><i>- Andy Bernard</i></p>
 
 <br>
