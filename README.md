@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.</b>
-> <p><i>- Michael Scott</i></p>
+> <b>You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'</b>
+> <p><i>- Andy Bernard</i></p>
 
 <br>
