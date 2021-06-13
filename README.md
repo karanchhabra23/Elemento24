@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>Everybody stay calm! Stay f*&#!#% calm!</b>
+> <b>I. Declare. Bankruptcy!</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
