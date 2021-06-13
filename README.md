@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>Sorry I annoyed you with my friendship.</b>
-> <p><i>- Andy Bernard</i></p>
+> <b>Well, Happy Birthday Jesus. Sorry your party’s so lame.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
