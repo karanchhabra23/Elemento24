@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>Everybody stay calm! Stay f*&#!#% calm!</b>
+> <b>Occasionally, I’ll hit somebody with my car. So sue me.</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
