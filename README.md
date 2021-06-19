@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>Well, Happy Birthday Jesus. Sorry your party’s so lame.</b>
+> <b>Dwight, you ignorant slut!</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
