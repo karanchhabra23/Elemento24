@@ -104,7 +104,7 @@ Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
-> <b>I have a lot of questions. Number one, how dare you?</b>
-> <p><i>- Kelly Kapoor</i></p>
+> <b>Bears, Beets, Battlestar Galactica.</b>
+> <p><i>- Jim Halpert</i></p>
 
 <br>
