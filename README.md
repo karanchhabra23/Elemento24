@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>I feel God in this Chili’s tonight.</b>
-> <p><i>- Pam Beesly</i></p>
+> <b>I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.</b>
+> <p><i>- Angela Martin</i></p>
 
 <br>
