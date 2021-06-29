@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Shut up about the sun. SHUT UP ABOUT THE SUN!</b>
-> <p><i>- Gabe Lewis</i></p>
+> <b>Well, Happy Birthday Jesus. Sorry your party’s so lame.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
