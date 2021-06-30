@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</b>
-> <p><i>- Pam Beesly</i></p>
+> <b>Shut up about the sun. SHUT UP ABOUT THE SUN!</b>
+> <p><i>- Gabe Lewis</i></p>
 
 <br>
