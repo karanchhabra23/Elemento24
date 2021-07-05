@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.</b>
-> <p><i>- Ryan Howard</i></p>
+> <b>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</b>
+> <p><i>- Phyllis Lapin</i></p>
 
 <br>
