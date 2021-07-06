@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Everybody stay calm! Stay f*&#!#% calm!</b>
-> <p><i>- Michael Scott</i></p>
+> <b>Shut up about the sun. SHUT UP ABOUT THE SUN!</b>
+> <p><i>- Gabe Lewis</i></p>
 
 <br>
