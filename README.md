@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Well, Happy Birthday Jesus. Sorry your party’s so lame.</b>
+> <b>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
