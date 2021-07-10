@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.</b>
-> <p><i>- Erin Hannon</i></p>
+> <b>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</b>
+> <p><i>- Pam Beesly</i></p>
 
 <br>
