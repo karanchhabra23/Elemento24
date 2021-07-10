@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</b>
-> <p><i>- Pam Beesly</i></p>
+> <b>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</b>
+> <p><i>- Andy Bernard</i></p>
 
 <br>
