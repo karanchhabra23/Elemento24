@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>I am immensely proud of what I did for that turtle!</b>
-> <p><i>- Kevin Malone</i></p>
+> <b>Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.</b>
+> <p><i>- Dwight Schrute</i></p>
 
 <br>
