@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.</b>
-> <p><i>- Jim Halpert</i></p>
+> <b>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
