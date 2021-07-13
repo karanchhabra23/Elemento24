@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Bears, Beets, Battlestar Galactica.</b>
-> <p><i>- Jim Halpert</i></p>
+> <b>Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.</b>
+> <p><i>- Toby Flenderson</i></p>
 
 <br>
