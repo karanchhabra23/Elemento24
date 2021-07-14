@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>I feel God in this Chili’s tonight.</b>
-> <p><i>- Pam Beesly</i></p>
+> <b>If you pray enough, you can change yourself into a cat person.</b>
+> <p><i>- Angela Martin</i></p>
 
 <br>
