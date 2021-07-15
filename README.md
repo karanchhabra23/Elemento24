@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Dwight, you ignorant slut!</b>
+> <b>Well, Happy Birthday Jesus. Sorry your party’s so lame.</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
