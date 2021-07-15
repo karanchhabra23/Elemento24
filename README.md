@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.</b>
-> <p><i>- Erin Hannon</i></p>
+> <b>I have a lot of questions. Number one, how dare you?</b>
+> <p><i>- Kelly Kapoor</i></p>
 
 <br>
