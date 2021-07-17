@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.</b>
-> <p><i>- Andy Bernard</i></p>
+> <b>Occasionally, I’ll hit somebody with my car. So sue me.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
