@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Bears, Beets, Battlestar Galactica.</b>
-> <p><i>- Jim Halpert</i></p>
+> <b>Shut up about the sun. SHUT UP ABOUT THE SUN!</b>
+> <p><i>- Gabe Lewis</i></p>
 
 <br>
