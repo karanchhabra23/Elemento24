@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Two eyes. Two ears. A chin. A mouth. Ten fingers. Two nipples. A butt, two kneecaps, a penis. I've just described to you the Loch Ness monster. And the reward for his capture? All the riches in Scotland. So I have one question: Why are you here?</b>
-> <p><i>- Creed Bratton</i></p>
+> <b>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</b>
+> <p><i>- Andy Bernard</i></p>
 
 <br>
