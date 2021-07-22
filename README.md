@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Bears, Beets, Battlestar Galactica.</b>
-> <p><i>- Jim Halpert</i></p>
+> <b>I feel God in this Chili’s tonight.</b>
+> <p><i>- Pam Beesly</i></p>
 
 <br>
