@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.</b>
+> <b>Everybody stay calm! Stay f*&#!#% calm!</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
