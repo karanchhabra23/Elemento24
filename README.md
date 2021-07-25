@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.</b>
+> <b>If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
