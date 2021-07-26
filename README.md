@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</b>
-> <p><i>- Andy Bernard</i></p>
+> <b>Well, Happy Birthday Jesus. Sorry your party’s so lame.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
