@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Bears, Beets, Battlestar Galactica.</b>
-> <p><i>- Jim Halpert</i></p>
+> <b>It has to be official, and it has to be urine.</b>
+> <p><i>- Dwight Schrute</i></p>
 
 <br>
