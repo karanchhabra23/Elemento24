@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</b>
-> <p><i>- Pam Beesly</i></p>
+> <b>I.D. badges are long overdue. Security in this office park is a joke. Last year, I came to work with my spud gun in a duffel bag. I sat at my desk all day, with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?</b>
+> <p><i>- Dwight Schrute</i></p>
 
 <br>
