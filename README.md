@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>I am immensely proud of what I did for that turtle!</b>
-> <p><i>- Kevin Malone</i></p>
+> <b>Dwight, you ignorant slut!</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
