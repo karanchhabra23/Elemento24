@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</b>
-> <p><i>- Oscar Martinez</i></p>
+> <b>Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
