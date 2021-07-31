@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Sorry I annoyed you with my friendship.</b>
-> <p><i>- Andy Bernard</i></p>
+> <b>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</b>
+> <p><i>- Pam Beesly</i></p>
 
 <br>
