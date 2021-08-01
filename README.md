@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.</b>
-> <p><i>- Angela Martin</i></p>
+> <b>Did I stutter?</b>
+> <p><i>- Stanley Hudson</i></p>
 
 <br>
