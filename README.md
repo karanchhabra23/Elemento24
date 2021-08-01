@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>If you pray enough, you can change yourself into a cat person.</b>
-> <p><i>- Angela Martin</i></p>
+> <b>Shut up about the sun. SHUT UP ABOUT THE SUN!</b>
+> <p><i>- Gabe Lewis</i></p>
 
 <br>
