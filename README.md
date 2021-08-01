@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>I am immensely proud of what I did for that turtle!</b>
-> <p><i>- Kevin Malone</i></p>
+> <b>I feel God in this Chili’s tonight.</b>
+> <p><i>- Pam Beesly</i></p>
 
 <br>
