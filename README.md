@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Occasionally, I’ll hit somebody with my car. So sue me.</b>
+> <b>Well, Happy Birthday Jesus. Sorry your party’s so lame.</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
