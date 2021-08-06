@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</b>
-> <p><i>- Pam Beesly</i></p>
+> <b>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
