@@ -83,7 +83,7 @@ I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Tec
 <br>
 <br>
 
-> <b>Shut up about the sun. SHUT UP ABOUT THE SUN!</b>
-> <p><i>- Gabe Lewis</i></p>
+> <b>If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
