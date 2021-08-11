@@ -13,7 +13,7 @@
 
 ## Hola Guys & Gals <img src="./assets/wave.gif" width="24px" alt="Hi">
 
-I'm Elemento, a **Sophomore** 🧑‍🎓 at Indian Institute of Information Technology, Allahabad (IIIT-A). I am a **Machine Learning** and **Deep Learning** Enthusiast, and loves to explore other domains of **Artificial Intelligence** as well. Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
+I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Information Technology, Allahabad (IIIT-A). I am a **Machine Learning** and **Deep Learning** Enthusiast, and loves to explore other domains of **Artificial Intelligence** as well. Want to connect with <b>Me</b>? Check out my **Profiles** listed above ⏫
 <br>
 <br>
 
