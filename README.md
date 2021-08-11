@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.</b>
-> <p><i>- Michael Scott</i></p>
+> <b>If you pray enough, you can change yourself into a cat person.</b>
+> <p><i>- Angela Martin</i></p>
 
 <br>
