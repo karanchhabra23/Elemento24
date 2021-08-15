@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</b>
-> <p><i>- Oscar Martinez</i></p>
+> <b>I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
