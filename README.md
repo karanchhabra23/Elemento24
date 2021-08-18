@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>Occasionally, I’ll hit somebody with my car. So sue me.</b>
+> <b>I. Declare. Bankruptcy!</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
