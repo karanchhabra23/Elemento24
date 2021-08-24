@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>I have a lot of questions. Number one, how dare you?</b>
-> <p><i>- Kelly Kapoor</i></p>
+> <b>Bears, Beets, Battlestar Galactica.</b>
+> <p><i>- Jim Halpert</i></p>
 
 <br>
