@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>Did I stutter?</b>
-> <p><i>- Stanley Hudson</i></p>
+> <b>I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband.</b>
+> <p><i>- Oscar Martinez</i></p>
 
 <br>
