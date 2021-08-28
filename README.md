@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>Did I stutter?</b>
-> <p><i>- Stanley Hudson</i></p>
+> <b>Occasionally, I’ll hit somebody with my car. So sue me.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
