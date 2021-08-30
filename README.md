@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.</b>
-> <p><i>- Michael Scott</i></p>
+> <b>Sorry I annoyed you with my friendship.</b>
+> <p><i>- Andy Bernard</i></p>
 
 <br>
