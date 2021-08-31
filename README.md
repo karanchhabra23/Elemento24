@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</b>
+> <b>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</b>
 > <p><i>- Pam Beesly</i></p>
 
 <br>
