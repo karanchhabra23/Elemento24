@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day.</b>
-> <p><i>- Stanley Hudson</i></p>
+> <b>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</b>
+> <p><i>- Phyllis Lapin</i></p>
 
 <br>
