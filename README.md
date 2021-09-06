@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>I. Declare. Bankruptcy!</b>
+> <b>Everybody stay calm! Stay f*&#!#% calm!</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
