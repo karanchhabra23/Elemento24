@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.</b>
-> <p><i>- Michael Scott</i></p>
+> <b>I wish there was a way to know you’re in the good old days, before you’ve actually left them.</b>
+> <p><i>- Andy Bernard</i></p>
 
 <br>
