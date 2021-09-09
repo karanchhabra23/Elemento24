@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>I. Declare. Bankruptcy!</b>
-> <p><i>- Michael Scott</i></p>
+> <b>Bears, Beets, Battlestar Galactica.</b>
+> <p><i>- Jim Halpert</i></p>
 
 <br>
