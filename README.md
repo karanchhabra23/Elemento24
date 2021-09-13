@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.</b>
-> <p><i>- Toby Flenderson</i></p>
+> <b>I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.</b>
+> <p><i>- Angela Martin</i></p>
 
 <br>
