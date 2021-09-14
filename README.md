@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>I feel like all my kids grew up, and then they married each other. It’s every parent’s dream.</b>
-> <p><i>- Michael Scott</i></p>
+> <b>Sorry I annoyed you with my friendship.</b>
+> <p><i>- Andy Bernard</i></p>
 
 <br>
