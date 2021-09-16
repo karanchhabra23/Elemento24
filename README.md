@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>Did I stutter?</b>
-> <p><i>- Stanley Hudson</i></p>
+> <b>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</b>
+> <p><i>- Phyllis Lapin</i></p>
 
 <br>
