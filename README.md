@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>Well, Happy Birthday Jesus. Sorry your party’s so lame.</b>
+> <b>Everybody stay calm! Stay f*&#!#% calm!</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
