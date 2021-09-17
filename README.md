@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>And I knew exactly what to do. But in a much more real sense, I had no idea what to do.</b>
+> <b>There are certain things a boss does not share with his employees. His salary, that would depress them. His bed, it--- And I am not going to tell them that I'll be reading their e-mails.</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
