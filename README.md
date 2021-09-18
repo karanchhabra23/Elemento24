@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>If you pray enough, you can change yourself into a cat person.</b>
-> <p><i>- Angela Martin</i></p>
+> <b>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</b>
+> <p><i>- Pam Beesly</i></p>
 
 <br>
