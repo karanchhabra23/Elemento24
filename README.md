@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'</b>
-> <p><i>- Andy Bernard</i></p>
+> <b>It has to be official, and it has to be urine.</b>
+> <p><i>- Dwight Schrute</i></p>
 
 <br>
