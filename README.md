@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking.</b>
-> <p><i>- Ryan Howard</i></p>
+> <b>Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera.</b>
+> <p><i>- Erin Hannon</i></p>
 
 <br>
