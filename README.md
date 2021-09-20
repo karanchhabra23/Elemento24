@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>Dwight, you ignorant slut!</b>
+> <b>I. Declare. Bankruptcy!</b>
 > <p><i>- Michael Scott</i></p>
 
 <br>
