@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</b>
-> <p><i>- Phyllis Lapin</i></p>
+> <b>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</b>
+> <p><i>- Pam Beesly</i></p>
 
 <br>
