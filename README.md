@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>Once every hour, someone is involved in an internet scam. That man is Michael Scott.</b>
-> <p><i>- Pam Beesly</i></p>
+> <b>I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.</b>
+> <p><i>- Andy Bernard</i></p>
 
 <br>
