@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>There’s a lot of beauty in ordinary things. Isn’t that kind of the point?</b>
-> <p><i>- Pam Beesly</i></p>
+> <b>If I had a gun with two bullets and I was in a room with Hitler, Bin Laden, and Toby, I would shoot Toby twice.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
