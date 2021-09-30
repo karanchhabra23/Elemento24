@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>It has to be official, and it has to be urine.</b>
-> <p><i>- Dwight Schrute</i></p>
+> <b>Well, Happy Birthday Jesus. Sorry your party’s so lame.</b>
+> <p><i>- Michael Scott</i></p>
 
 <br>
