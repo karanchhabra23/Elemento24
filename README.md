@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.</b>
-> <p><i>- Jim Halpert</i></p>
+> <b>Sorry I annoyed you with my friendship.</b>
+> <p><i>- Andy Bernard</i></p>
 
 <br>
