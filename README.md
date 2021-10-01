@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>Everybody stay calm! Stay f*&#!#% calm!</b>
-> <p><i>- Michael Scott</i></p>
+> <b>Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.</b>
+> <p><i>- Dwight Schrute</i></p>
 
 <br>
