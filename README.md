@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>I'm glad Michael's getting help. He has a lot of issues, and he's stupid.</b>
-> <p><i>- Phyllis Lapin</i></p>
+> <b>You can't let a girl feel good about herself. It will backfire on you. Every compliment has to be backhanded. 'Oh I like your dress, but I'd like it more if you had prettier hair.'</b>
+> <p><i>- Andy Bernard</i></p>
 
 <br>
