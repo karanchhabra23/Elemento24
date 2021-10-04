@@ -83,7 +83,7 @@ I'm Elemento, a **Pre-Final year** 🧑‍🎓 at Indian Institute of Informatio
 <br>
 <br>
 
-> <b>I have a lot of questions. Number one, how dare you?</b>
-> <p><i>- Kelly Kapoor</i></p>
+> <b>Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.</b>
+> <p><i>- Toby Flenderson</i></p>
 
 <br>
